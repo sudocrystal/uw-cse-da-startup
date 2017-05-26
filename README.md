@@ -1,5 +1,5 @@
-# UW CSE Direct Admit Bridge Course
-Bridge course materials for UW CSE's Direct Admit students
+# UW CSE Direct Admit Startup Course
+Startup course materials for UW CSE's Direct Admit students
 
 ## Schedule
 Class is 9-noon Monday - Thursday from August 21 - September 14.
@@ -13,14 +13,22 @@ Class is 9-noon Monday - Thursday from August 21 - September 14.
 | Wed 8/23 | Team teach
 | Thu 8/24 | Traffic light simulation
 
-### Week 2: Processing
+### Week 2: p5.js Processing
 
 | Week 2   | Topics
 |--------- |----------------
-| Mon 8/28 |
-| Tue 8/29 |
-| Wed 8/30 |
-| Thu 9/01 |
+| Mon 8/28 | Static vs. Dynamic Program
+| Tue 8/29 | Learning more functions
+| Wed 8/30 | If statements
+| Thu 9/01 | Loops
+
+<!--
+Assignment Ideas:
+1. Susan's Robot
+2. Design a Home
+3. Interactive Monster
+4. Pong
+-->
 
 ### Week 3: Terminal/Github/HTML
 
