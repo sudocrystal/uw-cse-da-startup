@@ -13,7 +13,7 @@ Class is 9-noon Monday - Thursday from August 21 - September 14.
 | Wed 8/23 | Team teach
 | Thu 8/24 | Traffic light simulation
 
-### Week 2: p5.js Processing
+### Week 2: Processing (p5.js) 
 
 | Week 2   | Topics
 |--------- |----------------
