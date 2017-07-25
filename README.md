@@ -4,7 +4,7 @@ Startup course materials for UW CSE's Direct Admit students
 ## Schedule
 Class is 9-noon Monday - Thursday from August 21 - September 14.
 
-### Week 1: Arduinos
+### Week 1: [Arduinos](topics/arduinos/)
 
 | Week 1   | Topics
 |--------- |----------------
@@ -13,7 +13,7 @@ Class is 9-noon Monday - Thursday from August 21 - September 14.
 | Wed 8/23 | Team teach
 | Thu 8/24 | Traffic light simulation
 
-### Week 2: Processing (p5.js) 
+### Week 2: [Processing (p5.js)](topics/processing/)
 
 | Week 2   | Topics
 |--------- |----------------
@@ -30,7 +30,7 @@ Assignment Ideas:
 4. Pong
 -->
 
-### Week 3: Terminal/Github/HTML
+### Week 3: [Terminal/Github/HTML](topics/html/)
 
 | Week 3   | Topics
 |--------- |----------------
@@ -39,7 +39,7 @@ Assignment Ideas:
 | Wed 9/06 | Intro to Github
 | Thu 9/07 | Intro to Github pages/HTML
 
-### Week 4: Robotics
+### Week 4: [Robotics](topics/edison/)
 
 | Week 4   | Topics
 |--------- |----------------
