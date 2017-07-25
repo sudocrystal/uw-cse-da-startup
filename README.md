@@ -4,7 +4,7 @@ Startup course materials for UW CSE's Direct Admit students
 ## Schedule
 Class is 9-noon Monday - Thursday from August 21 - September 14.
 
-### Week 1: [Arduinos](topics/arduinos/)
+### Week 1: [Arduinos](topics/arduino/)
 
 | Week 1   | Topics
 |--------- |----------------
