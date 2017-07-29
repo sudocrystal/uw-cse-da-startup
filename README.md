@@ -9,8 +9,8 @@ Class is 9-noon Monday - Thursday from August 21 - September 14.
 | Week 1   | Topics
 |--------- |----------------
 | Mon 8/21 | Intro to Arduinos
-| Tue 8/22 | Buttons, Potentiometers, Sounds
-| Wed 8/23 | Team teach
+| Tue 8/22 | Buttons, Potentiometers
+| Wed 8/23 | RGB LEDs, Sounds
 | Thu 8/24 | Traffic light simulation
 
 ### Week 2: [Processing (p5.js)](topics/processing/)
