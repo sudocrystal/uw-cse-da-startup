@@ -14,6 +14,8 @@ Adapted from: http://www.makeuseof.com/tag/arduino-traffic-light-controller/
 ## Schematic
 There are three LEDs wired with resistors to three separate input pins, and all connected to the ground.
 
+![Traffic Light Schematic](Arduino_Traffic_Light.png)
+
 ## Programming
 We’ll start by defining variables so that we can address the lights by name rather than a number.
 
@@ -72,6 +74,7 @@ Now, upload and run. You should have a working traffic light that changes every 
 Let’s add in a pushbutton for pedestrians to change the light whenever they like.
 
 Refer to the updated circuit diagram below:
+![Traffic Light Schematic with Button](Arduino_Traffic_Light_With_Button.png)
 
 You’ll notice that the switch has a high-impedance 10k resistor attached to it, and may be wondering why. This is called a pull down resistor. It’s a difficult concept to grasp at first, but bear with me.
 A switch either lets the current flow, or doesn’t. This seems simple enough, but in a logic circuit, the current should be always flowing in either a high or low state (remember – 1 or 0, high or low). You might assume that a pushbutton switch that isn’t actually being pushed would be defined as being in a low state, but in fact it’s said to be ‘floating’, because no current is being drawn at all.
