@@ -113,4 +113,7 @@ void loop(){
 
 By waiting inside the “if” statement for 15 seconds, we ensure the traffic lights can’t change for at least that duration. Once 15 seconds is up, the loop restarts. Each restart of the loop, we will read the state of the button again, but if it isn’t pressed then the “if” statement never activates, the lights never change, and it simply restarts again.
 
+## Improve on your own
+You should add some new features to the traffic light to make it more interesting using the knowledge you have gained this week.
+
 Play around with the code, adjust it, and most importantly have fun.
