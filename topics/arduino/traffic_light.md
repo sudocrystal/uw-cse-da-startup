@@ -1,6 +1,11 @@
 # Make a traffic light
 Adapted from: http://www.makeuseof.com/tag/arduino-traffic-light-controller/
 
+## Learning Goals
+- Combine your knowledge from the last few activities into one finished product
+- Plan a new feature and then implement it
+- Troubleshoot your own code
+
 ## You need
 - Arduino
 - A red, yellow and green LED.
