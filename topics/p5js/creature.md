@@ -22,7 +22,7 @@ Additionally, it must:
 - Use at least 3 different colors
 - Have at least 1 exact duplicate feature that is offset from the original (e.g. two identical legs that are 100 pixels apart)
 
-You are encouraged to be creative and welcomed to use anything you find in the [p5.js documentation](https://p5js.org/reference/.
+You are encouraged to be creative and welcomed to use anything you find in the [p5.js documentation](https://p5js.org/reference/).
 
 ## Tips
 - Run your program after every few lines to make sure you do not have typos and that it is functioning as you intend it to
