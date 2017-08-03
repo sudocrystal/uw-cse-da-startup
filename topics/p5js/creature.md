@@ -7,9 +7,7 @@
 - Use creativity to create your own masterpiece
 
 ## Your Creature
-Design and create a creature.
-
-**You _must_ loosely sketch your creature on graph paper _before_ beginning to code.**
+Design and create a creature. **You _must_ loosely sketch your creature on graph paper _before_ beginning to code.**
 
 Your creature should have _at a minimum_:
 - 1+ head(s)
