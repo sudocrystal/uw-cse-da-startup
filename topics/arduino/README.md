@@ -4,10 +4,11 @@
 
 | Topics
 |----------------
-| [Intro to Arduinos](intro_to_arduino.pptx)
-| [Buttons, Potentiometers](input_output.pptx)
-| [RGB LEDs, Sounds](input_output.pptx)
-| [Traffic light simulation](traffic_light.md)
+| [Intro to Arduinos](intro_to_arduino.pdf)
+| [Buttons, Potentiometers](input_output.pdf)
+| [RGB LEDs, Sounds](input_output.pdf)
+| [Traffic light simulation](traffic_light.pdf)
 
 
 ## Grading
+[Arduino Learnings](Learnings_Arduino.pdf)
