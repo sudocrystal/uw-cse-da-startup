@@ -13,22 +13,15 @@ Class is 9-noon Monday - Thursday from August 21 - September 14.
 | Wed 8/23 | RGB LEDs, Sounds
 | Thu 8/24 | Traffic light simulation
 
-### Week 2: [Processing (p5.js)](topics/processing/)
+### Week 2: [Processing (p5.js)](topics/p5js/)
 
 | Week 2   | Topics
 |--------- |----------------
-| Mon 8/28 | Static vs. Dynamic Program
-| Tue 8/29 | Learning more functions
+| Mon 8/28 | Intro to p5.js
+| Tue 8/29 | Methods, Interactivity
 | Wed 8/30 | If statements
 | Thu 9/01 | Loops
 
-<!--
-Assignment Ideas:
-1. Susan's Robot
-2. Design a Home
-3. Interactive Monster
-4. Pong
--->
 
 ### Week 3: [Terminal/Github/HTML](topics/html/)
 
