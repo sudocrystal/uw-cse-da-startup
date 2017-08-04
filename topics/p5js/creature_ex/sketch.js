@@ -10,7 +10,7 @@ function draw() {
   fill(0);
   textSize(20);
   text(mouseLoc,10,590);
-//  translate(mouseX-200,mouseY-200);
+  translate(mouseX-200,mouseY-200);
   
   arm(190,330);
   body(50,200);
