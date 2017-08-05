@@ -11,14 +11,14 @@ Class is 9-noon Monday - Thursday from August 21 - September 14.
 | Mon 8/21 | Intro to Arduinos
 | Tue 8/22 | Buttons, Potentiometers
 | Wed 8/23 | RGB LEDs, Sounds
-| Thu 8/24 | Traffic light simulation
+| Thu 8/24 | Traffic Light Lab
 
 ### Week 2: [Processing (p5.js)](topics/p5js/)
 
 | Week 2   | Topics
 |--------- |----------------
-| Mon 8/28 | Intro to p5.js
-| Tue 8/29 | Functions, Interactivity
+| Mon 8/28 | Intro to p5.js, Creature Lab
+| Tue 8/29 | Functions and Interactivity, Creature 2.0 Lab
 | Wed 8/30 | If statements
 | Thu 9/01 | Loops
 
