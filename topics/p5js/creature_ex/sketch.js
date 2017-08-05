@@ -7,17 +7,21 @@ function setup() {
 
 function draw() {
   background(255);
+  hill(-100,600,400,500);
+  hill(100,600,700,600);
+  hill(0,600,600,400);
+  
   fill(0);
   textSize(20);
   text(mouseLoc,10,590);
-  translate(mouseX-200,mouseY-200);
   
-  arm(190,330);
-  body(50,200);
-  head(50,50);
+  translate(mouseX-200,mouseY-200);
+  arm();
+  body();
+  head();
   eye(100,100);
   eye(200,100);
-  mouth(120,200);
+  mouth();
 }
 
 function keyPressed() {
@@ -28,7 +32,9 @@ function mouseMoved() {
   mouseLoc = "mouse at (" + mouseX + "," + mouseY + ")";
 }
 
-function head(x,y) {
+function head() {
+  var x = 50;
+  var y = 50;
   //head box
   fill(robotColor);
   stroke(100);
@@ -48,20 +54,29 @@ function eye(x,y) {
   ellipse(x+20,y+15,40,50);
 }
 
-function body(x,y) {
+function body() {
+  var x = 50;
+  var y = 200;
   fill(robotColor);
   stroke(100);
   triangle(x+100,y,x,y+300,x+200,y+300);
 }
 
-function mouth(x,y) {
+function mouth() {
+  var x = 120;
+  var y = 200;
   fill(0);
   arc(x, y, 80, 80, 0, PI+QUARTER_PI, CHORD);
   fill(color(255,0,0));
   arc(x, y, 60, 70, 0, PI+QUARTER_PI, PI);
 }
 
-function arm(x,y) {
+function arm() {
   fill(robotColor);
-  rect(x,y,100,20);
+  rect(190,330,100,20);
+}
+
+function hill(x,y,w,h) {
+  fill(color(0,255,0));
+  arc(x+(w/2), y, w, h, PI, 0, PIE);
 }
