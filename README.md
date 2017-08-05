@@ -18,7 +18,7 @@ Class is 9-noon Monday - Thursday from August 21 - September 14.
 | Week 2   | Topics
 |--------- |----------------
 | Mon 8/28 | Intro to p5.js
-| Tue 8/29 | Methods, Interactivity
+| Tue 8/29 | Functions, Interactivity
 | Wed 8/30 | If statements
 | Thu 9/01 | Loops
 
