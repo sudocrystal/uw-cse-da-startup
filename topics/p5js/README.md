@@ -9,7 +9,7 @@
 | Lecture      | [Functions and Interactivity](functions_interactivity.pdf)
 | Lab          | [Creature 2.0](creatureV2.pdf)
 | Exploration  | [Movement](movement.pdf)
-
+| Lab          | [Pong](pong.pdf)
 
 ## Grading
 [p5.js Learnings](Learnings_p5js.pdf)
