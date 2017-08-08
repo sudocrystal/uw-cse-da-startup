@@ -8,6 +8,7 @@
 | Lab          | [Create a Creature](creature.pdf)
 | Lecture      | [Functions and Interactivity](functions_interactivity.pdf)
 | Lab          | [Creature 2.0](creatureV2.pdf)
+| Exploration  | [Movement](movement.pdf)
 
 
 ## Grading
