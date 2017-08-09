@@ -27,16 +27,20 @@ Class is 9-noon Monday - Thursday from August 21 - September 14.
 | Thu 9/01 | [Pong Lab](p5js/pdfs/06_pong.pdf)                                       | [Learnings](p5js/pdfs/00_Learnings_p5js.pdf)
 
 
-### Week 3: [HTML/CSS](topics/html/)
+### Week 3: HTML/CSS
+
+Targeted Learnings
 
 | Week 3   | Topics                                                      | Homework
 |--------- |-------------------------------------------------------------|--------------------
 | Mon 9/04 | **NO CLASS - Labor Day**                                    |
-| Tue 9/05 | Intro to HTML                                               | Poem Lab
-| Wed 9/06 |                                    |
+| Tue 9/05 | [Intro to HTML](html/pdfs/01_intro_to_html.pdf)             | [HTML/CSS Tutorials](html/pdfs/02_tutorials.pdf)
+| Wed 9/06 | [CSS](html/pdfs/03_css.pdf)                                 | [HTML/CSS Tutorials](html/pdfs/02_tutorials.pdf)
 | Thu 9/07 |                                    |
 
-### Week 4: [Robotics](topics/edison/)
+### Week 4: Robotics
+
+Targeted Learnings
 
 | Week 4   | Topics
 |--------- |----------------
@@ -50,3 +54,4 @@ Class is 9-noon Monday - Thursday from August 21 - September 14.
 - [Arduino Software](https://www.arduino.cc/en/Main/Software)
 - p5.js IDE - [deprecated desktop editor](https://github.com/processing/p5.js-editor/releases), [alpha web editor](http://alpha.editor.p5js.org/)
 - [repl.it](https://repl.it/languages/web_project)
+- [CodePen](https://codepen.io)
