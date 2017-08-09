@@ -1,18 +1,23 @@
-# Creature Version 2.0
+# YouTube Portal
 
 ## Learning Goals
-- Identify and build on programming patterns
-  - In this case, use the background color changing example to change the robot's color instead
-  - Also, use the keyPressed example to figure out how to create change on a mouse press
-- Find built-in functions to use from p5.js's API
-- Create and use functions to repeat similar code
+- Combine your knowledge from the last few activities into one finished product
+- Troubleshoot HTML and CSS syntax problems
+- Experiment with utilizing CSS found online
+  - Copypasta?! Could be dangerous but all you could learn stuff!
 
-## Modifying your Creature
-1. Instead of chunking your code with whitespace and comments, chunk your code using functions that you define.
-  - Make sure that your function names are meaningful
-  - Make sure that you both define AND call your functions
-  - Note that the order in which you call your functions is the order in which they execute (this affects layering!)
-1. Make your creature change colors on a _key press_ instead of the background
-1. Make your creature sleep (close eye(s) and anything else you want) when the _mouse is pressed_
-1. Add a sky and 2+ clouds to the background of your sketch
-  - You should _define your own cloud function that takes  parameters_ for where to place the cloud; optionally, you may also pass a variable height and width for your cloud
+## YouTube Portal
+1. Open the [youtube portal starter code](https://codepen.io/sudocrystal/pen/brWmXZ) and fork the code.
+  - This beginning code has the CSS commented out. This is so you can see how the page would render without any CSS.
+1. [CSS] Remove the comments in the CSS so that the CSS actually affects the display rendering
+  - Explore the HTML and CSS. Are there any lines of code that you haven't seen before? Try commenting out those lines of code to see what they are doing (or not doing, while commented out)
+1. [HTML] Following the format used, add 2 more videos to the list of videos.
+1. [CSS] Give each article a distinct look and feel.
+1. [CSS] Make the article text show up next to the video image.
+1. [CSS] Change the styling used for the cited text
+1. [CSS] Change the way the links look by default.
+  - For added fun, change how they look when hovered over.
+1. [CSS] Make the top header large with a background image of your choosing.
+
+## Extensions
+What other fun things can you do?
