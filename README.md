@@ -36,7 +36,7 @@ Targeted Learnings
 | Mon 9/04 | **NO CLASS - Labor Day**                                    |
 | Tue 9/05 | [Intro to HTML](html/pdfs/01_intro_to_html.pdf)             | [HTML/CSS Tutorials](html/pdfs/02_tutorials.pdf)
 | Wed 9/06 | [CSS](html/pdfs/03_css.pdf)                                 | [HTML/CSS Tutorials](html/pdfs/02_tutorials.pdf)
-| Thu 9/07 |                                    |
+| Thu 9/07 | [YouTube Portal Lab](html/pdfs/04_youtube.pdf)              |
 
 ### Week 4: Robotics
 
