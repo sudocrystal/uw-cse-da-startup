@@ -22,6 +22,7 @@ Class is 9-noon Monday - Thursday from August 21 - September 14.
 [Targeted Learnings](p5js/pdfs/00_Learnings_p5js.pdf)
 
 ### Software
+- [deprecated p5.js offline editor](https://github.com/processing/p5.js-editor/releases/tag/v0.6.2)
 - [alpha p5.js web editor](http://alpha.editor.p5js.org/)
 
 | Week 2   | Topics                                                                  | Homework
