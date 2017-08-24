@@ -1,6 +1,6 @@
 # UW CSE Direct Admit Startup Course
-Startup course materials for UW CSE's Direct Admit students
-Class is 9-noon Monday - Thursday from August 21 - September 14.
+Startup course materials for UW CSE's Direct Admit students. <br />
+Class is 9-noon Monday-Thursday from Aug21-Sep14.
 
 ## Week 1: Arduinos
 
