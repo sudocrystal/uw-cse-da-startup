@@ -2,7 +2,7 @@
 
 ## Learning Goals
 - Identify and build on programming patterns
-  - In this case, use the background color changing example to change the robot's color instead
+  - In this case, use the background color changing example to change the creature's color instead
   - Also, use the keyPressed example to figure out how to create change on a mouse press
 - Find built-in functions to use from p5.js's API
 - Create and use functions to repeat similar code
