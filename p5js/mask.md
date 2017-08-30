@@ -7,6 +7,10 @@ Modified from [cmuems.com/2015b/p5-face-tracking/](http://cmuems.com/2015b/p5-fa
 
 ## Mask
 **Make a virtual mask with the face tracking system below.**
+- Use the points returned by the ctracker to design a mask or other feature instead of just the dots that the start file begins with.
+- Optionally, display only the regular image of your face and add something like a hat or a mustache to the image (much like a snapchat or instagram filter)
+
+### Starter Files
 
 Starter files: [p5Face.zip](p5Face.zip)
 

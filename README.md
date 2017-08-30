@@ -29,9 +29,11 @@ Class is 9-noon Monday-Thursday from Aug21-Sep14.
 |--------- |-------------------------------------------------------------------------|--------------------
 | Mon 8/28 | [Intro to p5.js](p5js/pdfs/01_intro_to_p5js.pdf)                        | [Creature Lab](p5js/pdfs/02_creature.pdf)
 | Tue 8/29 | [Functions and Interactivity](p5js/pdfs/03_functions_interactivity.pdf) | [Creature 2.0 Lab](p5js/pdfs/04_creatureV2.pdf)
-| Wed 8/30 | [Movement](p5js/pdfs/05_movement.pdf)                                   |
+| Wed 8/30 | [Cookie Game](p5js/pdfs/05_cookie_game.pdf)                                   |
 | Thu 9/01 | [Pong Lab](p5js/pdfs/06_pong.pdf)                                       | [Learnings](p5js/pdfs/00_Learnings_p5js.pdf)
 
+### Extra Fun Assignment
+- [Face Mask](p5js/pdfs/mask.pdf)
 
 ## Week 3: HTML/CSS
 
