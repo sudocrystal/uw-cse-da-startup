@@ -8,7 +8,7 @@
 | Lab          | [Create a Creature](pdfs/02_creature.pdf)
 | Lecture      | [Functions and Interactivity](pdfs/03_functions_interactivity.pdf)
 | Lab          | [Creature 2.0](pdfs/04_creatureV2.pdf)
-| Exploration  | [Movement](pdfs/05_movement.pdf)
+| Lab          | [Cookie Game](pdfs/05_cookie_game.pdf)
 | Lab          | [Pong](pdfs/06_pong.pdf)
 
 ## Grading
