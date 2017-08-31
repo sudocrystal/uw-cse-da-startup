@@ -15,7 +15,7 @@ Class is 9-noon Monday-Thursday from Aug21-Sep14.
 | Mon 8/21 | [Intro to Arduinos](arduino/pdfs/01_intro_to_arduino.pdf)   |
 | Tue 8/22 | [Buttons, Potentiometers](arduino/pdfs/02_input_output.pdf) |
 | Wed 8/23 | [RGB LEDs, Sounds](arduino/pdfs/02_input_output.pdf)        |
-| Thu 8/24 | [Traffic Light Lab](arduino/pdfs/03_traffic_light.pdf)      | [Learnings](arduino/pdfs/00_Learnings_Arduino.pdf)
+| Thu 8/24 | [Traffic Light Lab](arduino/03_traffic_light.md)      | [Learnings](arduino/pdfs/00_Learnings_Arduino.pdf)
 
 ## Week 2: Processing (p5.js)
 
@@ -27,13 +27,13 @@ Class is 9-noon Monday-Thursday from Aug21-Sep14.
 
 | Week 2   | Topics                                                                  | Homework
 |--------- |-------------------------------------------------------------------------|--------------------
-| Mon 8/28 | [Intro to p5.js](p5js/pdfs/01_intro_to_p5js.pdf)                        | [Creature Lab](p5js/pdfs/02_creature.pdf)
-| Tue 8/29 | [Functions and Interactivity](p5js/pdfs/03_functions_interactivity.pdf) | [Creature 2.0 Lab](p5js/pdfs/04_creatureV2.pdf)
-| Wed 8/30 | [Cookie Game](p5js/pdfs/05_cookie_game.pdf)                                   |
-| Thu 9/01 | [Pong Lab](p5js/pdfs/06_pong.pdf)                                       | [Learnings](p5js/pdfs/00_Learnings_p5js.pdf)
+| Mon 8/28 | [Intro to p5.js](p5js/pdfs/01_intro_to_p5js.pdf)                        | [Creature Lab](p5js/02_creature.md)
+| Tue 8/29 | [Functions and Interactivity](p5js/pdfs/03_functions_interactivity.pdf) | [Creature 2.0 Lab](p5js/04_creatureV2.md)
+| Wed 8/30 | [Cookie Game](p5js/05_cookie_game.md)                                   |
+| Thu 9/01 | [Pong Lab](p5js/06_pong.md)                                       | [Learnings](p5js/pdfs/00_Learnings_p5js.pdf)
 
 ### Extra Fun Assignment
-- [Face Mask](p5js/pdfs/mask.pdf)
+- [Face Mask](p5js/mask.md)
 
 ## Week 3: HTML/CSS
 
@@ -47,7 +47,7 @@ Class is 9-noon Monday-Thursday from Aug21-Sep14.
 | Mon 9/04 | **NO CLASS - Labor Day**                                    |
 | Tue 9/05 | [Intro to HTML](html/pdfs/01_intro_to_html.pdf)             | [HTML/CSS Tutorials](html/pdfs/02_tutorials.pdf)
 | Wed 9/06 | [CSS](html/pdfs/03_css.pdf)                                 | [HTML/CSS Tutorials](html/pdfs/02_tutorials.pdf)
-| Thu 9/07 | [YouTube Portal Lab](html/pdfs/04_youtube.pdf)              | [ Learnings](html/pdfs/00_Learnings_html.pdf)
+| Thu 9/07 | [YouTube Portal Lab](html/04_youtube.md)              | [ Learnings](html/pdfs/00_Learnings_html.pdf)
 
 ## Week 4: Edison Robots
 
@@ -60,6 +60,6 @@ Class is 9-noon Monday-Thursday from Aug21-Sep14.
 | Week 4   | Topics                                                      | Homework
 |--------- |-------------------------------------------------------------|--------------------
 | Mon 9/11 | [Meet Edison](edison/pdfs/01_meet_edison.pdf)                      | [Edison Talent Show](edison/pdfs/02_edison_talent_show.pdf)
-| Tue 9/12 | [Edison Talent Show](edison/pdfs/02_edison_talent_show.pdf)        | [A Game of Sardines](edison/pdfs/03_sardines.pdf)
-| Wed 9/13 | [Autonomous Driving](edison/pdfs/04_autonomous_driving.pdf)        | [Obstacle Course](edison/pdfs/05_obstacle_course.pdf)
+| Tue 9/12 | [Edison Talent Show](edison/02_edison_talent_show.md)        | [A Game of Sardines](edison/03_sardines.md)
+| Wed 9/13 | [Autonomous Driving](edison/pdfs/04_autonomous_driving.pdf)        | [Obstacle Course](edison/05_obstacle_course.md)
 | Thu 9/14 | Debrief about CS
