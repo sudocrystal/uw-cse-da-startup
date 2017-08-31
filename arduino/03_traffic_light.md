@@ -6,7 +6,7 @@ Adapted from: http://www.makeuseof.com/tag/arduino-traffic-light-controller/
 - Plan a new feature and then implement it
 - Troubleshoot your own code
 - **Finding Errors in a Tutorial!**
-  - WHAT?! There are a few minor errors in this tutorial. You will need to use your awesome brain to find and correct errors (both in code and in hardware setup).
+    - WHAT?! There are a few minor errors in this tutorial. You will need to use your awesome brain to find and correct errors (both in code and in hardware setup).
 
 ## You need
 - Arduino

@@ -5,7 +5,7 @@
 | Activity     | Link
 |--------------|---------------------------
 | Lecture      | [Intro to HTML](pdfs/01_intro_to_html.pdf)
-| Exploration  | [HTML/CSS Tutorials](pdfs/02_tutorials.pdf)
+| Exploration  | [HTML/CSS Tutorials](02_tutorials.md)
 | Lecture      | [CSS](pdfs/03_css.pdf)
 | Lab          | [YouTube Portal](04_youtube.md)
 
