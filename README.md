@@ -45,9 +45,9 @@ Class is 9-noon Monday-Thursday from Aug21-Sep14.
 | Week 3   | Topics                                                      | Homework
 |--------- |-------------------------------------------------------------|--------------------
 | Mon 9/04 | **NO CLASS - Labor Day**                                    |
-| Tue 9/05 | [Intro to HTML](html/pdfs/01_intro_to_html.pdf)             | [HTML/CSS Tutorials](html/02_tutorials.md)
-| Wed 9/06 | [CSS](html/pdfs/03_css.pdf)                                 | [HTML/CSS Tutorials](html/02_tutorials.md)
-| Thu 9/07 | [YouTube Portal Lab](html/04_youtube.md)              | [ Learnings](html/pdfs/00_Learnings_html.pdf)
+| Tue 9/05 | [Intro to HTML](html/pdfs/03_intro_to_html.pdf)             | [HTML/CSS Tutorials](html/04_tutorials.md)
+| Wed 9/06 | [CSS](html/pdfs/05_css.pdf)                                 | [HTML/CSS Tutorials](html/04_tutorials.md)
+| Thu 9/07 | [YouTube Portal Lab](html/06_youtube.md)              | [ Learnings](html/pdfs/00_Learnings_html.pdf)
 
 ## Week 4: Edison Robots
 
