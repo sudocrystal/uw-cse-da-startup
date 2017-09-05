@@ -1,4 +1,7 @@
 # Hosting files live on the Web
+
+
+
 The following is modified from [github.com/susanev/uw-hcde-creative-computing](https://github.com/susanev/uw-hcde-creative-computing/blob/master/lessons/week1/portfolio.md)
 
 ## Creating Your Portfolio
