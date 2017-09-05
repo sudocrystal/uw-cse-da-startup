@@ -1,8 +1,6 @@
 # Using Github
 
-## Github
-
-### What is Github?
+## What is Github?
 _Github_ is different from something called _Git_.
 
 Git is a version control system that many programmers use to tracks changes in their code (or any other kinds of files). Git uses [git commands](http://rogerdudler.github.io/git-guide/) using a terminal to track and update the changes we make to code (or other files).
@@ -11,7 +9,7 @@ Github is a place where we can share, collaborate on, and view the files that we
 
 Some basic Git/Github vocabulary that you might hear in the wild includes: clone a repo, commit changes, push/pull commits, make a branch, checkout a branch, merge changes,...
 
-## Creating a live web portfolio
+## Using Github to create a live web portfolio
 _The following is modified from [github.com/susanev/uw-hcde-creative-computing](https://github.com/susanev/uw-hcde-creative-computing/blob/master/lessons/week1/portfolio.md)_
 
 We are going to use [Github](https://github.com/), without the terminal (which is uncommon), to upload web files so that they can be shared with and viewed by others on the web.
@@ -44,7 +42,7 @@ We are going to use [Github](https://github.com/), without the terminal (which i
 1. Congratulate yourself! **This website is live and you can share the link with others!**
 1. Add a description to the repo with a link to the base part of this URL (everything except the creature folder) - we will use this later.
 
-### Part 5:
+### Part 5: Add all p5.js work
 1. Repeat _Part 4_ to add your cookie game to github
 1. Repeat _Part 4_ to add your pong game to github
 
