@@ -7,7 +7,8 @@
     - Copypasta?! Could be dangerous but all you could learn stuff!
 
 ## YouTube Portal
-1. Open the [youtube portal starter code](https://codepen.io/sudocrystal/pen/brWmXZ) and fork the code.
+1. Open the [youtube portal starter code](https://codepen.io/sudocrystal/pen/brWmXZ)
+1. **Fork the code**.
     - This beginning code has the CSS commented out. This is so you can see how the page would render without any CSS.
 1. [CSS] Remove the comments in the CSS so that the CSS actually affects the display rendering
     - Explore the HTML and CSS. Are there any lines of code that you haven't seen before? Try commenting out those lines of code to see what they are doing (or not doing, while commented out)
