@@ -52,6 +52,7 @@ Class is 9-noon Monday-Thursday from Aug21-Sep14.
 
 ### Extra Fun Assignment
 - [Dozing Bird](html/dozing_bird.md)
+- [Make it Rain](https://codepen.io/natacoops/post/make-it-rain-svg-animation-for-beginners)
 
 ## Week 4: Edison Robots
 
