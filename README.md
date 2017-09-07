@@ -50,6 +50,9 @@ Class is 9-noon Monday-Thursday from Aug21-Sep14.
 | Wed 9/06 | [CSS](html/pdfs/04_css.pdf)                                 | [HTML/CSS Tutorials](html/03_tutorials.md)
 | Thu 9/07 | [YouTube Portal Lab](html/05_youtube.md)              | [ Learnings](html/pdfs/00_Learnings_html.pdf)
 
+### Extra Fun Assignment
+- [Dozing Bird](html/dozing_bird.md)
+
 ## Week 4: Edison Robots
 
 [Targeted Learnings](edison/pdfs/00_Learnings_Edison.pdf)
