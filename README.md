@@ -56,7 +56,7 @@ Class is 9-noon Monday-Thursday from Aug21-Sep14.
 
 ## Week 4: Edison Robots
 
-[Targeted Learnings](edison/pdfs/00_Learnings_Edison.pdf)
+[Targeted Learnings](edison/pdfs/00_Learnings_edison.pdf)
 
 ### Hardware/Software
 - [Edison Robot](https://www.meetedison.com)
