@@ -66,5 +66,5 @@ Class is 9-noon Monday-Thursday from Aug21-Sep14.
 |--------- |-------------------------------------------------------------|--------------------
 | Mon 9/11 | [Meet Edison](edison/pdfs/01_meet_edison.pdf), [Autonomous Driving](edison/pdfs/04_autonomous_driving.pdf)                           | [Edison Talent Show](edison/pdfs/02_edison_talent_show.pdf)
 | Tue 9/12 | [Edison Talent Show](edison/02_edison_talent_show.md)        | Group planning and research division for [A Game of Sardines](edison/03_sardines.md)
-| Wed 9/13 | [A Game of Sardines](edison/03_sardines.md)        | Training for [Obstacle Course](edison/05_obstacle_course.md)
+| Wed 9/13 | [A Game of Sardines](edison/03_sardines.md)        | Training for [Obstacle Course](edison/05_obstacle_course.md), [Learnings](edison/pdfs/00_Learnings_edison.pdf)
 | Thu 9/14 | [Obstacle Course](edison/05_obstacle_course.md), Debrief about CS |
