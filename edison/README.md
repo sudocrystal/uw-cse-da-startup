@@ -12,4 +12,4 @@
 
 
 ## Grading
-[Edison Learnings](pdfs/00_Learnings_Edison.pdf)
+[Edison Learnings](pdfs/00_Learnings_edison.pdf)
